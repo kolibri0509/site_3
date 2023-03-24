@@ -32,7 +32,7 @@ body {
     border-radius: 25px;
 }
 .main {
-    background-image:url(/img/Overlay.png);
+    background-image:url(../img/Overlay.png);
     min-height: 570px;
     display: flex;
     flex-direction: column;
@@ -282,7 +282,7 @@ hr{
     padding-bottom: 25px;
 }
 .community {
-    background-image: url(/img/bg.png);
+    background-image: url(../img/bg.png);
     min-height: 612px;
     text-align: center;
 }
@@ -307,7 +307,7 @@ hr{
     padding-bottom: 60px;
 }
 .community__feedback-content {
-    background-image: url(/img/Rounded\ Rectangle\ 12.png);
+    background-image: url(../img/Rounded\ Rectangle\ 12.png);
     min-height: 166px;
     max-width: 397px; 
 }
