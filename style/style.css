@@ -146,17 +146,31 @@ body {
 }
 .box__properties {
     display: flex;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
     align-items: center;
     background-color: #e1f8ff;
-    min-width: 650px;
+    max-width: 650px;
 }
 .box__bayers {
     display: flex;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
     align-items: center;
     background-color: #f5f9eb;
-    min-width: 650px;  
+    max-width: 650px;  
+}
+.box__img1{
+    margin-left: 140px;
+    margin-right: 40px;
+}
+.box__img2{
+    margin-left: 70px;
+    margin-right: 40px;
+}
+.box__content1{
+    margin-right: 70px;
+}
+.box__content2{
+    margin-right: 140px;
 }
 .box__content-h4 {
     font-size: 23px;

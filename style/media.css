@@ -6,6 +6,12 @@
     .footer img{
         width: 900px;
     }
+    .box__img2{
+        margin-left: 140px;
+    }
+    .box__content2{
+        margin-right: 70px;
+    }
 
 }
 @media (max-width:960px){
@@ -65,9 +71,22 @@
 .header__login{
     margin-bottom: 10px;
 }
+.box__img2{
+    margin-left: 70px;
+}
+.box__content2{
+    margin-right:35px;
+} 
+.box__img1{
+    margin-left: 70px;
+}
+.box__content1{
+    margin-right:35px;
+} 
 }
 @media (max-width:500px){
     .footer img{
         width: 300px;
-    }  
+    } 
+    
 }
