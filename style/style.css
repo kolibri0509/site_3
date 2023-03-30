@@ -149,14 +149,14 @@ body {
     /* justify-content: space-evenly; */
     align-items: center;
     background-color: #e1f8ff;
-    max-width: 650px;
+    /* max-width: 650px; */
 }
 .box__bayers {
     display: flex;
     /* justify-content: space-evenly; */
     align-items: center;
     background-color: #f5f9eb;
-    max-width: 650px;  
+    /* max-width: 650px;   */
 }
 .box__img1{
     margin-left: 140px;
