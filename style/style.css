@@ -15,7 +15,7 @@ body {
 .header__menu-list {
     display: flex;
 }
-.header__menu-list-link {
+.header__menu-list-link > a {
     font-size: 13px;
     font-family: 'Open Sans', sans-serif;
     color: rgba(102, 102, 102, 0.671);
